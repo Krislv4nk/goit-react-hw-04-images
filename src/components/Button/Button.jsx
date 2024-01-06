@@ -4,7 +4,7 @@ import css from "./Button.module.css";
 
 export const LoadMoreButton = ({ onClick, isVisible }) => {
   if (!isVisible) {
-    return null;
+    return ;
   }
 
     return (
