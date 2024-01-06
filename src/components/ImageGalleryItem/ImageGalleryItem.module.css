@@ -1,0 +1,9 @@
+
+.imageItem {
+    width: 250px;
+}
+.ImageGalleryItem {
+    border: 3px solid #392c2c;
+    width: max-content;
+    height: max-content;
+}

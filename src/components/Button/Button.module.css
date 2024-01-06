@@ -1,0 +1,25 @@
+.buttonWrapper {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+}
+.button {
+    display: flex;
+    width: 120px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 7px;
+    cursor: pointer;
+    background-color: rgb(71, 61, 81);
+    color: bisque;
+}
+button:hover {
+  background-color: #45a049;
+}
+
+button:focus {
+  outline: none;
+  background-color: #8e723e;
+}
